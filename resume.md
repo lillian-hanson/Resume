@@ -5,5 +5,6 @@
 
 ## Education:
 - B.S. Geophysical Engineering, Colorado School of Mines, Expected 2027
+- Minor in Public Affairs, McBride Honors Program
 
 
