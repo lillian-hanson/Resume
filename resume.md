@@ -4,7 +4,8 @@
 - Location: Golden, CO
 
 ## Education:
-- B.S. Geophysical Engineering, Colorado School of Mines, Expected 2027
+#### Colorado School of Mines, Expected 2027
+- B.S. Geophysical Engineering, Major GPA 4.0
 - Minor in Public Affairs, [McBride Honors Program](https://mcbride.mines.edu/)
 
 ## Work Experience: 
