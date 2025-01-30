@@ -2,9 +2,10 @@
 # Lillian Hanson
 - Email: Lillian_Hanson@mines.edu
 - Location: Golden, CO
+- Phone: 507-951-3210
 
 ## Education:
-#### Colorado School of Mines, Expected 2027
+#### Colorado School of Mines, Golden, CO, Expected 2027
 - B.S. Geophysical Engineering, Major GPA 4.0
 - Minor in Public Affairs, [McBride Honors Program](https://mcbride.mines.edu/)
 
