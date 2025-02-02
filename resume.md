@@ -37,4 +37,4 @@
 
 **Society of Student Geophysicists**: Active member
 
-! (labradorite image)(labradorite.jpg)
+![labradorite image](labradorite.jpg)
