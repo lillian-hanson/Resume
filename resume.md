@@ -36,3 +36,5 @@
 - Work with professional engineers and develop skills in software such as SWMM and GIS.
 
 **Society of Student Geophysicists**: Active member
+
+! (labradorite image)(labradorite.jpg)
